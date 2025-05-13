@@ -1,2 +1,8 @@
 # MapasConceptuales_D
-Descripción de tres mapas conceptuales sobre la nube.
+Este repositorio contiene una serie de mapas conceptuales realizados en grupo, que explican:
+
+- Tipos de Nubes
+- Modelos de Servicio en la Nube
+- Proveedores de Nube (enfocado en AWS)
+
+Cada carpeta o archivo contiene la descripción y un recurso visual correspondiente.
