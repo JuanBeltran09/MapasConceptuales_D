@@ -38,5 +38,4 @@
 
     Proveedor: administra y mantiene las aplicaciones.
 
-./imagenes/modelos-nube.png
 ![Mapa conceptual: Tipos de Nubes](./imagenes/modelos-nube.png)
