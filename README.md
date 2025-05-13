@@ -11,4 +11,5 @@ Cada carpeta o archivo contiene la descripción y un recurso visual correspondie
 Integrantes.
 
 Sebastian Beltran
+
 Daniel Vargas
