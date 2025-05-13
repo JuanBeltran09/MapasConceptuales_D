@@ -8,8 +8,8 @@ Este repositorio contiene una serie de mapas conceptuales realizados en grupo, q
 Cada carpeta o archivo contiene la descripción y un recurso visual correspondiente.
 
 
-Integrantes.
+**Integrantes**.
 
-Sebastian Beltran
+- Sebastian Beltran
 
-Daniel Vargas
+- Daniel Vargas
